@@ -135,7 +135,7 @@ style: |
 
 - Clippy
   - コード規約とか文化とかを理解するのには時間がかかるのでしんどいが
-    Clippy はそういうのを自動で見つけ出して指摘・たまに自動修正してくれる
+    Clippy はそういうのを自動で見つけて指摘・たまに自動修正してくれる
 - コード規約を積極的に公式の側で決めてくれるので考えることが少なくて楽
   - これとか https://rust-lang.github.io/api-guidelines/
   - ![guideline height:200px](asset/api-guideline-prefix.png)
