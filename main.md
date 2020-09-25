@@ -16,8 +16,7 @@ style: |
 
 <!-- _paginate: false -->
 <!-- _footer: "" -->
-
-# Intoduction to Rust
+![bg contain](asset/title.png)
 
 ---
 
@@ -250,5 +249,4 @@ style: |
 
 <!-- _paginate: false -->
 <!-- _footer: presented by coord_e <<me@coord-e.com>> -->
-
-# ありがとうございました
+![bg contain](asset/thanks.png)
